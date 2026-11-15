@@ -1,5 +1,8 @@
-    /* Author: Thiago Oecksler Zonta
+    /* 
+       UNINGÁ CENTRO UNIVERSITÁRIO
+       Aluno: Thiago Oecksler Zonta
        Data: 15/11/2026
+       Estudo de CASO ALGORITIMOS E PROGRAMAÇAO APLICADA 
    */
     #include <stdio.h>
     #include <math.h>
