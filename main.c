@@ -3,6 +3,7 @@
        Aluno: Thiago Oecksler Zonta
        Data: 15/11/2026
        Estudo de CASO ALGORITIMOS E PROGRAMAÇAO APLICADA 
+       GitHUb: https://github.com/Thiagozonta/AlgoritimosProgramacaoAplicada.git
    */
     #include <stdio.h>
     #include <math.h>
